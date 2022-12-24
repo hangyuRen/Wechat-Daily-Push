@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "info",
+      "type": "com.xiake.domain.Users",
+      "sourceType": "com.xiake.domain.Users"
+    }
+  ],
+  "properties": [
+    {
+      "name": "info.list",
+      "type": "java.util.List<com.xiake.domain.Information>",
+      "sourceType": "com.xiake.domain.Users"
+    }
+  ],
+  "hints": []
+}
