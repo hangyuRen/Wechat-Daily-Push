@@ -11,14 +11,14 @@ logging:
   root: error
 
 tianx:
- APIKEY: "1534f9f2dd38af44f1e59613d4145452"
+ APIKEY: "xxxx"
 
 wx:
  mp:
-  appId: "wx03e67a5e06ded016"
-  secret: "0fd5beb1b7a490afa64e622cb97f7ea7"
-  templateId: "BGBGnSBSb8movMZ7P4usaRlvrqB8YcU1B9e-Z8uTr_E"
-  templateIdForNight: "81ydK9c3ISl7HbejD9haCre-X8hM2uUk6WtZvsbzbz4"
+  appId: "xxxx"
+  secret: "xxxxxxxxxxxx"
+  templateId: "xxxxxxxxxxxxxxxxxxxxxxx"
+  templateIdForNight: "xxxxxxxxxxxxxxxxxxxxxxxxx"
   city: "重庆"
   type: 1
   cron: "0 0 10 * * ?"
@@ -26,9 +26,9 @@ wx:
 
 info:
  list:
-  - openid: "oLWdn63exrF3jHBUkKRLldUyGy-M"
+  - openid: "xxxxxxxxxxxxxxxxxx"
     constellation: "aquarius"
-  - openid: "oLWdn6w2Y1ekuTTPNCQQs3n_PB6w"
+  - openid: "xxxxxxxxxxxxxxxxxxxxx"
     constellation: "virgo"
 
 url:
